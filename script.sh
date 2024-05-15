@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Check if the input file was provided
 if [ $# -eq 0 ]; then
     echo "Usage: $0 <csv_file>"
